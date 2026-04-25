@@ -3,6 +3,8 @@
 > Don thou life of earth, for a great many victory ye shall have.  
 > — The Druid  
 
+## [FORK-UPDATES.md](/FORK-UPDATES.md "FORK-UPDATES.md")
+
 ### A daily task completer for Tagoria, a browser fantasy RPG.
 
 Auto-completes daily tasks including quests, plunders, and farming. Forever.
